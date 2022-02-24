@@ -32,7 +32,7 @@ For the moment we have an empty project directory containing only a README.md. I
 A branch is like a copy of your project. It’s used mainly for:
 
 - adding a feature in development
-- collaborating on the same project with other developers
+- collaborating on the same project with other developer
 - not breaking your entire repository
 - not upsetting your co-workers
 The purpose of a branch is to isolate your work from the main code base of your project and/or from your co-workers’ work.
